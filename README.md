@@ -1,9 +1,10 @@
-# Hi there 👋
+### Hi there 👋
 
-# Web Developer
+### Web Developer
 
-## 
-* javascript
+### Languages
+
+* JavaScript
 * typescript
 * react
 * html
